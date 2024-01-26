@@ -1,0 +1,63 @@
+2023-11-09T17:27:57.042+08:00  INFO 8428 --- [main] top.jocularchao.Application              : Starting Application using Java 21 with PID 8428 (D:\workpace\work_idea\sp04_springboot\spring-02-log\_01logback\target\classes started by Dell in D:\workpace\work_idea\sp04_springboot\spring-02-log\_01logback)
+2023-11-09T17:27:57.043+08:00  INFO 8428 --- [main] top.jocularchao.Application              : No active profile set, falling back to 1 default profile: "default"
+2023-11-09T17:27:57.730+08:00  INFO 8428 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-11-09T17:27:57.736+08:00  INFO 8428 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-11-09T17:27:57.737+08:00  INFO 8428 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.15]
+2023-11-09T17:27:57.804+08:00  INFO 8428 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-11-09T17:27:57.805+08:00  INFO 8428 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 732 ms
+2023-11-09T17:27:58.160+08:00  INFO 8428 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-11-09T17:27:58.165+08:00  INFO 8428 --- [main] top.jocularchao.Application              : Started Application in 1.642 seconds (process running for 2.203)
+2023-11-09T17:28:08.817+08:00  INFO 8428 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-11-09T17:28:08.817+08:00  INFO 8428 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-11-09T17:28:08.818+08:00  INFO 8428 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-11-09T17:28:08.836+08:00  INFO 8428 --- [http-nio-8080-exec-1] t.jocularchao.controller.TestController  : 用户访问了一次数据
+2023-11-09T17:28:08.846+08:00  INFO 8428 --- [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-11-09T17:28:09.092+08:00  INFO 8428 --- [http-nio-8080-exec-1] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@368518fb
+2023-11-09T17:28:09.093+08:00  INFO 8428 --- [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-11-09T17:32:00.368+08:00  INFO 8428 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-11-09T17:32:00.379+08:00  INFO 8428 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2023-11-09T17:32:03.443+08:00  INFO 20656 --- [main] top.jocularchao.Application              : Starting Application using Java 21 with PID 20656 (D:\workpace\work_idea\sp04_springboot\spring-02-log\_01logback\target\classes started by Dell in D:\workpace\work_idea\sp04_springboot\spring-02-log\_01logback)
+2023-11-09T17:32:03.444+08:00  INFO 20656 --- [main] top.jocularchao.Application              : No active profile set, falling back to 1 default profile: "default"
+2023-11-09T17:32:04.121+08:00  INFO 20656 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-11-09T17:32:04.127+08:00  INFO 20656 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-11-09T17:32:04.128+08:00  INFO 20656 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.15]
+2023-11-09T17:32:04.197+08:00  INFO 20656 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-11-09T17:32:04.197+08:00  INFO 20656 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 723 ms
+2023-11-09T17:32:04.530+08:00  INFO 20656 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-11-09T17:32:04.535+08:00  INFO 20656 --- [main] top.jocularchao.Application              : Started Application in 1.497 seconds (process running for 1.979)
+2023-11-09T17:38:31.735+08:00  INFO 20084 --- [main] top.jocularchao.Application              : Starting Application using Java 21 with PID 20084 (D:\workpace\work_idea\sp04_springboot\spring-02-log\_01logback\target\classes started by Dell in D:\workpace\work_idea\sp04_springboot\spring-02-log\_01logback)
+2023-11-09T17:38:31.736+08:00  INFO 20084 --- [main] top.jocularchao.Application              : The following 1 profile is active: "dev"
+2023-11-09T17:38:32.421+08:00  INFO 20084 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-11-09T17:38:32.428+08:00  INFO 20084 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-11-09T17:38:32.428+08:00  INFO 20084 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.15]
+2023-11-09T17:38:32.502+08:00  INFO 20084 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-11-09T17:38:32.502+08:00  INFO 20084 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 733 ms
+2023-11-09T17:38:32.868+08:00  INFO 20084 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-11-09T17:38:32.873+08:00  INFO 20084 --- [main] top.jocularchao.Application              : Started Application in 1.586 seconds (process running for 2.109)
+2023-11-09T17:38:37.520+08:00  INFO 20084 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-11-09T17:38:37.520+08:00  INFO 20084 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-11-09T17:38:37.521+08:00  INFO 20084 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2023-11-09T17:38:37.540+08:00  INFO 20084 --- [http-nio-8080-exec-1] t.jocularchao.controller.TestController  : 用户访问了一次数据
+2023-11-09T17:38:37.551+08:00  INFO 20084 --- [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-11-09T17:38:37.814+08:00  INFO 20084 --- [http-nio-8080-exec-1] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@54b5bfb
+2023-11-09T17:38:37.815+08:00  INFO 20084 --- [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-11-09T17:38:52.613+08:00  INFO 20084 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-11-09T17:38:52.619+08:00  INFO 20084 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2023-11-09T17:38:58.426+08:00  INFO 15516 --- [main] top.jocularchao.Application              : Starting Application using Java 21 with PID 15516 (D:\workpace\work_idea\sp04_springboot\spring-02-log\_01logback\target\classes started by Dell in D:\workpace\work_idea\sp04_springboot\spring-02-log\_01logback)
+2023-11-09T17:38:58.427+08:00  INFO 15516 --- [main] top.jocularchao.Application              : The following 1 profile is active: "prod"
+2023-11-09T17:38:59.115+08:00  INFO 15516 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-11-09T17:38:59.122+08:00  INFO 15516 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-11-09T17:38:59.122+08:00  INFO 15516 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.15]
+2023-11-09T17:38:59.194+08:00  INFO 15516 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-11-09T17:38:59.195+08:00  INFO 15516 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 735 ms
+2023-11-09T17:38:59.554+08:00  INFO 15516 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-11-09T17:38:59.559+08:00  INFO 15516 --- [main] top.jocularchao.Application              : Started Application in 1.585 seconds (process running for 2.075)
+2023-11-09T17:39:02.427+08:00  INFO 15516 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-11-09T17:39:02.428+08:00  INFO 15516 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-11-09T17:39:02.429+08:00  INFO 15516 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-11-09T17:39:02.449+08:00  INFO 15516 --- [http-nio-8080-exec-1] t.jocularchao.controller.TestController  : 用户访问了一次数据
+2023-11-09T17:39:02.460+08:00  INFO 15516 --- [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-11-09T17:39:02.717+08:00  INFO 15516 --- [http-nio-8080-exec-1] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@316010b
+2023-11-09T17:39:02.719+08:00  INFO 15516 --- [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-11-09T17:40:43.088+08:00  INFO 15516 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-11-09T17:40:43.094+08:00  INFO 15516 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
